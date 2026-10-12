@@ -25,4 +25,4 @@ Then open `http://127.0.0.1:4192/`.
 
 X: https://x.com/scanworkdate
 
-Contract address: `B9BDTYZkYdcCLnZFN22FWRd95mu7kVyjuWP9YwFhpump`
+Contract address: `TBA`
